@@ -21,7 +21,7 @@ Use a matching API4 build with regional SIN, Omega and Tarot support. Translatio
 packages must match the exact Spira tables; a vanilla PT-BR pack is not interchangeable.
 
 Data packages are modifications for your existing FFX HD installation.
-The pending release does not claim full gameplay validation. Dark Aeon T10,
+This release does not claim full gameplay validation. Dark Aeon T10,
 progressive Touch/Imperil/Ward, Aurochs Reels changes and the low-MAG Omega Rite
 are not advertised as completed functionality. New Game+ is outside this package.
 See [complete bilingual notes](docs/0.2.0-encounters.md).
@@ -46,7 +46,7 @@ separadamente nas [releases FFX Hooks](https://github.com/WanxTitanx/ffx-mod-hoo
 usando uma build API4 compatível com SIN regional, Omega e Tarot. A tradução
 precisa corresponder às tabelas exatas do Spira; PT-BR vanilla não é intercambiável.
 
-Os pacotes modificam sua instalação existente do FFX HD. A release pendente
+Os pacotes modificam sua instalação existente do FFX HD. Esta release
 não atesta validação completa de uma partida. Dark Aeon T10, Touch/Imperil/Ward
 progressivos, mudanças de Aurochs Reels e o Rite Omega de MAG baixo não são
 anunciados como funcionalidades concluídas. New Game+ fica fora deste pacote.
